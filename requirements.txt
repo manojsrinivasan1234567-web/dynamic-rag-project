@@ -1,0 +1,10 @@
+fastapi
+uvicorn[standard]
+python-multipart
+pypdf
+pdf2image
+pytesseract
+Pillow
+scikit-learn
+numpy
+pytest

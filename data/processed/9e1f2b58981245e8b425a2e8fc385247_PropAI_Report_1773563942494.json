@@ -1,0 +1,24 @@
+{
+  "filename": "9e1f2b58981245e8b425a2e8fc385247_PropAI_Report_1773563942494.pdf",
+  "parser": "pypdf",
+  "page_count": 1,
+  "character_count": 674,
+  "classification": {
+    "category": "general_document",
+    "scores": {
+      "employee_policy": 0,
+      "product_documentation": 0,
+      "invoice": 0,
+      "troubleshooting_guide": 0
+    }
+  },
+  "chunk_count": 1,
+  "chunks": [
+    {
+      "chunk_id": "62c9742c-b2e4-411a-8417-0014d4eb9d6f",
+      "text": "[Page 1]\\nPropAI Precision Real Estate Intelligence PROPERTY VALUATION REPORT Generated on: 15/3/2026 PREPARED FOR: MANOJ mano@gmail.com ESTIMATED MARKET VALUE ¹\u0000 \u00006\u00008\u0000,\u00009\u00009\u0000,\u00002\u00007\u00006 5-YR FORECAST ¹\u0000 \u00001\u0000,\u00000\u00001\u0000,\u00004\u00001\u0000,\u00009\u00003\u00006 Property Attribute Specification Details Structure Type 3 BHK Residential Apartment Area Dimensions 800 sq. ft. Built-up Geo-Location Metropolitan Core (Tier 1) Asset Vintage 5 Years from Possession Amenities Included Private Parking Financial Intelligence MONTHLY EMI ¹\u0000 \u00004\u00007\u0000,\u00008\u00009\u00009 MONTHLY RENT ¹\u0000 \u00001\u00007\u0000,\u00002\u00004\u00008 ANNUAL YIELD 3% Market Forecast Dynamics (2025-2030) DISCLAIMER: AI-generated valuation. PropAI does not guarantee transaction prices.",
+      "word_count": 82
+    }
+  ],
+  "text": "[Page 1]\\nPropAI\nPrecision Real Estate Intelligence\nPROPERTY VALUATION REPORT\nGenerated on: 15/3/2026\nPREPARED FOR: MANOJ\nmano@gmail.com\nESTIMATED MARKET VALUE\n ¹\u0000 \u00006\u00008\u0000,\u00009\u00009\u0000,\u00002\u00007\u00006\n5-YR FORECAST\n ¹\u0000 \u00001\u0000,\u00000\u00001\u0000,\u00004\u00001\u0000,\u00009\u00003\u00006\nProperty Attribute Specification Details\nStructure Type 3 BHK Residential Apartment\nArea Dimensions 800 sq. ft. Built-up\nGeo-Location Metropolitan Core (Tier 1)\nAsset Vintage 5 Years from Possession\nAmenities Included Private Parking\nFinancial Intelligence\nMONTHLY EMI\n ¹\u0000 \u00004\u00007\u0000,\u00008\u00009\u00009\nMONTHLY RENT\n ¹\u0000 \u00001\u00007\u0000,\u00002\u00004\u00008\nANNUAL YIELD\n3%\nMarket Forecast Dynamics (2025-2030)\nDISCLAIMER: AI-generated valuation. PropAI does not guarantee transaction prices."
+}
